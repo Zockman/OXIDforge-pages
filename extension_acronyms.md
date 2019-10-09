@@ -122,7 +122,7 @@
 | spark5 |  | [Spark5 GmbH](http://www.spark5.de)  |
 | stme |  | [STUTTGART MEDIA GmbH](https://stuttgartmedia.de)  |
 | sv |  | [Christian Lehmann](http://www.svingo.com)  |
-| sw |  | [Seidemann Web GmbH](http://www.seidemann-web.com)  |
+| sw |  | [Seidemann Web GmbH](https://seidemann-web.com)  |
 | sx |  | [sologics GmbH & Co. KG](http://www.sologics.de)  |
 | tab |  | [Tobias Merkl](http://www.tabs.eu/)  |
 | tc |  | [top concepts GmbH](http://www.topconcepts.com)  |
